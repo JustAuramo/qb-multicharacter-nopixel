@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'amir_expert#1911 MultiCharacter'
-version '1.0.8'
+description 'AuramoTV'
+version '1.0.0'
 
 shared_scripts {
 	'@ox_lib/init.lua',
